@@ -18,7 +18,9 @@ This anaylsis was done on a dataset with a count of 2,344,224 trips in NY city u
 
 <img width="128" alt="image" src="https://user-images.githubusercontent.com/94858846/161475756-a5e76eae-7e04-4ce0-b097-99d601e1cd90.png">
 
-The raw data had a wrong data type in the "datetime" column which was modified using Pandas.
+The raw data had a wrong data type in the "datetime" column which was modified using Pandas and can be viewed here: [NYC_citibike.ipynb](https://github.com/kritika2604/bikesharing/blob/main/NYC_Citibike_Challenge.ipynb)
+
+The complete Tableau public visualiation can be viewed here : [Tableau_Challenge_14(best viewed in full screen mode)](https://public.tableau.com/app/profile/kritika1614/viz/Module14Challenge_16490062283090/NYbikeridestory)
 
 The following conclusions were made:
 
